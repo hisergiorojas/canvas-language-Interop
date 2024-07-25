@@ -10,7 +10,7 @@ Supported Platform
 
 Communications channels
 -------
-Discussion Forum
+Discussion Forum: https://github.com/hisergiorojas/canvas-language-Interop/discussions
 
 License
 -------
