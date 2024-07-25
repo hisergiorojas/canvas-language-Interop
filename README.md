@@ -1,6 +1,6 @@
 # Canvas Language Interop
 
-Overview
+Introduction
 -------
 
 Supported Platform
