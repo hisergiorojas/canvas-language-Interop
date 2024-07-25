@@ -10,7 +10,7 @@ Supported Platform
 
 Communications channels
 -------
-
+Discussion Forum
 
 License
 -------
