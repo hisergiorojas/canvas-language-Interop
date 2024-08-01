@@ -8,7 +8,7 @@ function getSections(courseId) {
       },
     };
   
-    const canvas_base_url = `https://canvas.instructure.com/api/v1`;
+    const canvas_base_url = getCanvasBaseUrl();
   
     var response = UrlFetchApp.fetch(
       `${canvas_base_url}/courses/${courseId}/sections?`,
