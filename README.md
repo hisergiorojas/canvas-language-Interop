@@ -2,6 +2,7 @@
 
 Introduction
 -------
+Canvas Language Interop is a library for the Canvas API.
 
 Supported Platform
 -------
