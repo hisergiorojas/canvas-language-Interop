@@ -8,6 +8,9 @@ Supported Platform
 -------
 * Linux - Rocky Linux
 
+Documentation
+--------------
+Documentation, including quick start, best-practice, use cases, and much more, is available on [ReadTheDocs](https://canvas-language-interop.readthedocs.io/)
 
 Communications channels
 -------
