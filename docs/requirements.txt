@@ -1,1 +1,2 @@
 bluepy
+sphinx-rtd-theme
